@@ -1,6 +1,17 @@
 # Presidential_Speech_Analysis
 
+-------------------------------Abstract---------------------------------------------------------------------
+
+Speech can deeply resonate with people, particularly in the context of presidential
+speeches, as it can significantly influence their public image. This influence lies within
+the emotional spectrum, making it a relevant topic for a behavioral study. By examining
+the impact of speech on people’s thoughts, we can gain insights into how emotions conveyed
+through presidential speeches affect public perception. In this research, we expand upon the
+traditional survey methods by integrating machine learning. We extract emotions from audio files
+and fit them in a large-scale analysis involving 1,947,792 regressions using transition matrices
+
 -------------------------------Instructions---------------------------------------------------------------------
+
 Notebook1: Create a scrape bot to collect and organize Audio files from Miller Files. We then combine this data
            with the Approval Rates data from Roper Center. 
 
