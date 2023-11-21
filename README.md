@@ -12,7 +12,7 @@ and fit them in a large-scale analysis involving 1,947,792 regressions using tra
 
 -------------------------------Instructions---------------------------------------------------------------------
 
-Notebook_Part1: Create a scrape bot to collect and organize Audio files from Miller Files. We then combine this data
+Notebook_Part1: Create a scrape bot to collect and organize Audio files from Miller Files. We then combine these files
            with the Approval Rates data from Roper Center. 
 
 Notebook_Part2: Create a machine learning algorithm to extract emotions from the audio data. 
